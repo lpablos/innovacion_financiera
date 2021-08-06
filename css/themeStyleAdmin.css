@@ -1,0 +1,40 @@
+.btn_red_asc{
+    background-color: #C84D3F !important;
+    color: white;
+    max-height: 50px;    
+}
+
+.back_sect_red{
+    background-color: #C84D3F !important;
+    color: white;        
+}
+
+
+.text_red_asc{
+    color: #C84D3F !important;    
+}
+.with_input{
+    width: 304px;
+}
+.text_monserrat_bold{
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 28px;
+}
+.text_monserrat_regular{
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 15px;
+}
+.mat-label {
+        font-family: 'Montserrat', sans-serif !important;
+}
+.text_monserrat_medium{
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 17px;
+}
+.text_monserrat_hegiht{
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 19px;
+}
+.text_menu_regular{    
+    font-family: 'Montserrat', sans-serif !important;    
+}

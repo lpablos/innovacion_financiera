@@ -1,0 +1,59 @@
+.mat-label {
+    display: block !important;
+    font-size: 17px !important;
+    transform: translateY(25px);
+    color: #ffffff !important;
+    transition: all 0.5s !important;
+}
+
+.mat-input {
+    position: relative !important;
+    background: transparent !important;
+    width: 100% !important;
+    border: none !important;
+    outline: none !important;
+    padding: 8px 0 !important;
+    font-size: 16px !important;
+    /* add*/
+    border-bottom: 2px solid rgb(252, 247, 247) !important;
+    color: white !important;
+    
+    border-color: inherit !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.mat-div {
+    padding: 30px 0 0 0 !important;
+    position: relative !important;
+}
+
+.mat-div:after, .mat-div:before {
+    content: "" !important;
+    position: absolute !important;
+    display: block !important;
+    width: 100% !important;
+    height: 2px !important;
+    background-color: #ffffff !important; 
+    bottom: 0 !important;
+    left: 0 !important;
+    transition: all 0.5s !important;
+}
+
+.mat-div::after {
+    background-color: #ffffff !important;
+    transform: scaleX(0) !important;
+}
+
+.is-active::after {
+    transform: scaleX(1) !important;
+}
+
+.is-active .mat-label {
+    color: #ffffff !important;
+}
+
+.is-completed .mat-label {
+    font-size: 12px !important;
+    transform: translateY(0) !important;
+}
