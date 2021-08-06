@@ -8148,7 +8148,7 @@ body {
       -o-transform: translateX(0);
       transform: translateX(0);
       width: 270px;
-      background: #1B2631;
+      background: #2699FB;
       z-index: 999;
       position: fixed; }
     body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
@@ -8204,10 +8204,11 @@ h1, h2, h3, h4, h5,
   position: relative; }
 
 #colorlib-aside {
-  padding-top: 2em;
+  /* padding-top: 2em;
   padding-bottom: 40px;
   padding-left: 2em;
-  padding-right: 2em;
+  padding-right: 2em; */
+  padding-top: 0px !important;
   width: 20%;
   position: fixed;
   bottom: 0;
@@ -8216,7 +8217,7 @@ h1, h2, h3, h4, h5,
   right: 0;
   overflow-y: hidden;
   z-index: 1001;
-  background: #1B2631;
+  background: #2699FB;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -8242,14 +8243,23 @@ h1, h2, h3, h4, h5,
       background: rgba(0, 0, 0, 0.04); } }
   #colorlib-aside #colorlib-main-menu ul {
     margin: 0;
-    padding: 0; }
+    padding: 0; 
+  }
     #colorlib-aside #colorlib-main-menu ul li {
-      margin: 0 0 10px 0;
+      /* margin: 0 0 10px 0;
       padding: 0;
       list-style: none;
       font-size: 15px;
       font-weight: 500;
-      line-height: 1.5; }
+      line-height: 1.5;  */
+      background-color: #53ACF8;
+      margin-left: 8px;
+      margin-right: 8px;
+      border-radius: 10px;
+      margin-bottom: 18px;
+      font-size: 1.3em;
+      transition: all 0.5s;
+    }
       #colorlib-aside #colorlib-main-menu ul li a {
         color: white;
         text-decoration: none;
@@ -8286,7 +8296,7 @@ h1, h2, h3, h4, h5,
           transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275); }
         #colorlib-aside #colorlib-main-menu ul li a:hover {
           text-decoration: none;
-          color: #0496FF !important; 
+          color: #707070 !important; 
           color: black; }
           #colorlib-aside #colorlib-main-menu ul li a:hover:after {
             visibility: visible;
@@ -8296,7 +8306,7 @@ h1, h2, h3, h4, h5,
             -o-transform: scaleX(1);
             transform: scaleX(1); }
       #colorlib-aside #colorlib-main-menu ul li.colorlib-active a {
-        color: #0496FF !important; 
+        color: #707070 !important; 
       }
       
         #colorlib-aside #colorlib-main-menu ul li.colorlib-active a:after {

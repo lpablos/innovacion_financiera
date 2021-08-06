@@ -8,12 +8,13 @@ body{
 .text-red_perso{
     color: #C84D3F !important;
 }
-.bach_red_personal{
+/* .bach_red_personal{
     background-color: #C84D3F !important;
-}
+} */
 
 .back_cabecera_personal{
-    background-color: #EFEFEF;;
+    background-color: #2699FB;
+    height: 136px;
 }
 
 #cuadrado_asc_personal{
@@ -21,6 +22,12 @@ body{
     padding-top: 10px !important;
     padding-bottom: 10px !important;
     width: 50%;
+}
+#spacemenu{
+    padding-top: 2em !important;
+    padding-bottom: 40px !important;
+    padding-left: 2em !important;
+    padding-right: 2em !important;
 }
 
 /* diseño */
@@ -104,5 +111,20 @@ body{
     background: #F6F6F4;
     font-size: 70%;
 }
+
+.sidebar-header{
+    background-color: white;
+    height: 136px;
+}
+
+.colorlib-active {
+    background-color: white !important;
+}
+.colorlib-active > a {
+    color: #707070 !important;
+}
+
+
+
 
 
