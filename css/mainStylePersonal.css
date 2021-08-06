@@ -1,0 +1,108 @@
+/* Template section */
+body{
+    font-family: 'Montserrat', sans-serif !important;
+}
+#out_side{
+    color: #C84D3F !important;
+}
+.text-red_perso{
+    color: #C84D3F !important;
+}
+.bach_red_personal{
+    background-color: #C84D3F !important;
+}
+
+.back_cabecera_personal{
+    background-color: #EFEFEF;;
+}
+
+#cuadrado_asc_personal{
+    background: white !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    width: 50%;
+}
+
+/* diseño */
+.div-section{
+    border-right: 3px solid #c84d3f;
+    border-left: 3px solid #c84d3f;
+}
+
+.widthoutMargin > p {
+    margin: 0px;
+    padding: 0px;
+}
+.thead-gray{
+    background-color: #E0E5D5;            
+}
+.round-head-left{
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border: 2px solid black;
+    /* margin: 1px; */
+    margin: 2px !important;
+}
+.round-head-right{
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: 1px solid black;
+}
+.table-space {
+    border-collapse: separate;
+    border-spacing: 1px;
+}
+.decorate-left-blue{
+    border-left-style: solid !important;
+    border-left-color: rgba(0, 0, 255, 0.905) !important;
+    border-left-width: 6px !important;
+}
+.decorate-left-green{
+    border-left-style: solid !important;
+    border-left-color: rgba(85, 255, 0, 0.905) !important;
+    border-left-width: 6px !important;
+}
+.decorate-left-orange{
+    border-left-style: solid !important;
+    border-left-color: rgba(255, 145, 0, 0.905) !important;
+    border-left-width: 6px !important;
+}
+.decorate-left-yellow{
+    border-left-style: solid !important;
+    border-left-color: rgba(221, 255, 0, 0.905) !important;
+    border-left-width: 6px !important;
+}
+.decorate-left-red{
+    border-left-style: solid !important;
+    border-left-color: rgba(255, 60, 0, 0.905) !important;
+    border-left-width: 6px !important;
+}
+
+/* bordeados de secciones */
+.div-section-red{
+    border-right: 3px solid #c84d3f;
+    border-left: 3px solid #c84d3f;
+}
+.div-section-blue{
+    border-right: 3px solid #2662F0;
+    border-left: 3px solid #2662F0;
+}
+.div-section-green{
+    border-right: 3px solid #04E762;
+    border-left: 3px solid #04E762;
+}
+.div-section-yellow{
+    border-right: 3px solid #E4C232;
+    border-left: 3px solid #E4C232;
+}
+
+.sin-marg-parrafo-personal{
+    margin: auto
+}
+
+.bg-btn-gis-personal{
+    background: #F6F6F4;
+    font-size: 70%;
+}
+
+
