@@ -160,7 +160,7 @@ h6.title {
 }*/
 
 .container-fluid {
-    background-image: url(../images/fondo.png);
+    background-image: url(../images/fondo2.png);
     background-position: center -122px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -513,9 +513,9 @@ input.orange {
 .burbuja img{
     padding-top: 4px;
 }
-.inscripcion .campos{
+/* .inscripcion .campos{
         background-color: rgb(255 255 255 / 50%);
-}
+} */
 /*p.foot {
     position: absolute;
     bottom: -30px;
