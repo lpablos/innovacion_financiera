@@ -11,7 +11,15 @@ body{
 .text-orange_perso{
     color: #E26517 !important;
 }
-
+.text-dorado_perso{
+    color: #D3AE2B !important;
+}
+.text-platino_perso{
+    color: #39BCD8 !important;
+}
+.text-diamante_perso{
+    color: #7D9DBF !important;
+}
 .text-blue_perso{
     color: #2699FB !important;
 }
