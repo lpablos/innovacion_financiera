@@ -11,6 +11,10 @@ body{
 .text-orange_perso{
     color: #E26517 !important;
 }
+
+.text-blue_perso{
+    color: #2699FB !important;
+}
 /* .bach_red_personal{
     background-color: #C84D3F !important;
 } */
@@ -105,6 +109,17 @@ body{
     background: white !important;
     /* border-bottom: 3px solid gray; */
 }
+.div-section-basic{
+    /* border-right: 1px solid gray;
+    border-left: 1px solid gray; */
+    /* border-top: 20px solid #2699FB !important; */
+    -webkit-box-shadow: 1px 1px 5px 0 #707070;
+    box-shadow: 1px 1px 5px 0 #707070;
+    /* -webkit-border-radius: 12px 12px 12px 12px !important;
+    border-radius: 12px 12px 12px 12px !important; */
+    background: white !important;
+    /* border-bottom: 3px solid gray; */
+}
 .div-section-green{
     border-right: 3px solid #04E762;
     border-left: 3px solid #04E762;
@@ -141,6 +156,16 @@ body{
 .round_pers_btn{
     -webkit-border-radius: 9px 9px 9px 9px !important;
     border-radius: 9px 9px 9px 9px !important;
+}
+.round_pers_btn2{
+    -webkit-border-radius: 13px 13px 13px 13px !important;
+    border-radius: 13px 13px 13px 13px !important;
+}
+.space-blue-midle{
+    border-top: 6px solid rgb(173 207 236) !important;
+}
+.space-gray-midle{
+    border-top: 2px solid rgb(194 194 194) !important;
 }
 
 
