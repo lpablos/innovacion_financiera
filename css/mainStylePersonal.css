@@ -8,6 +8,9 @@ body{
 .text-red_perso{
     color: #C84D3F !important;
 }
+.text-orange_perso{
+    color: #E26517 !important;
+}
 /* .bach_red_personal{
     background-color: #C84D3F !important;
 } */
@@ -92,8 +95,15 @@ body{
     border-left: 3px solid #c84d3f;
 }
 .div-section-blue{
-    border-right: 3px solid #2662F0;
-    border-left: 3px solid #2662F0;
+    /* border-right: 1px solid gray;
+    border-left: 1px solid gray; */
+    border-top: 20px solid #2699FB !important;
+    -webkit-box-shadow: 1px 1px 5px 0 #707070;
+    box-shadow: 1px 1px 5px 0 #707070;
+    -webkit-border-radius: 12px 12px 12px 12px !important;
+    border-radius: 12px 12px 12px 12px !important;
+    background: white !important;
+    /* border-bottom: 3px solid gray; */
 }
 .div-section-green{
     border-right: 3px solid #04E762;
@@ -123,6 +133,14 @@ body{
 }
 .colorlib-active > a {
     color: #707070 !important;
+}
+.space-blue{
+    
+    border: 1px solid #2699FB;
+}
+.round_pers_btn{
+    -webkit-border-radius: 9px 9px 9px 9px !important;
+    border-radius: 9px 9px 9px 9px !important;
 }
 
 
