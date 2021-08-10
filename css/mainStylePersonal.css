@@ -203,6 +203,31 @@ body{
     background: #2699FB !important;
 }
 
+.input-tree-personal{
+    -webkit-border-radius: 15px 15px 15px 15px !important;
+    border-radius: 15px 15px 15px 15px !important;
+}
+.input-tree-personal{
+    -webkit-border-radius: 15px 15px 15px 15px !important;
+    border-radius: 15px 15px 15px 15px !important;
+}
+
+.input-tree-personal-top-left{
+    -webkit-border-radius: 15px 0 0 !important;
+    border-radius: 15px 0 0 !important;
+}
+.input-tree-personal-top-right{
+   -webkit-border-radius: 0 15px 0 0 !important;
+    border-radius: 0 15px 0 0 !important;
+}
+.input-tree-personal-bottom-right-left{
+    -webkit-border-radius: 0 0 15px 15px !important;
+    border-radius: 0 0 15px 15px !important;
+}
+.input-small-tree-persona{
+    font-size: 80% !important;
+}
+
 
 
 
