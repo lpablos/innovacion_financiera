@@ -14,11 +14,20 @@ body{
 .text-dorado_perso{
     color: #D3AE2B !important;
 }
+.text-dorado2_perso{
+    color: #89701F !important;
+}
 .text-platino_perso{
     color: #39BCD8 !important;
 }
+.text-platino2_perso{
+    color: #24828E !important;
+}
 .text-diamante_perso{
     color: #7D9DBF !important;
+}
+.text-diamante2_perso{
+    color: #57718D !important;
 }
 .text-blue_perso{
     color: #2699FB !important;
