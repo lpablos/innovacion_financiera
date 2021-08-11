@@ -159,7 +159,7 @@ h6.title {
     color: #fff;
 }*/
 
-.container-fluid {
+body {
     background-image: url(../images/fondo.png);
     background-position: center -122px;
     background-size: cover;
@@ -731,6 +731,22 @@ select.custom-select.select1.griz {
 
 h6.title.ml-5 {
     margin-left: 59px !important; 
+}
+
+
+.left-input-personal{
+    -webkit-border-radius: 15px 0 0 15px !important;
+    border-radius: 15px 0 0 15px !important;
+}
+
+.right-input-personal{
+    -webkit-border-radius: 0 15px 15px 0 !important;
+    border-radius: 0 15px 15px 0 !important;
+}
+
+.all-input-personal{
+    -webkit-border-radius: 15px 15px !important;
+    border-radius: 15px 15px !important;
 }
 
 
