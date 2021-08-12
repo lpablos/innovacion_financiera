@@ -38,6 +38,7 @@ body{
 
 .back_cabecera_personal{
     background-color: #2699FB;
+    
     height: 136px;
 }
 
@@ -226,6 +227,10 @@ body{
 }
 .input-small-tree-persona{
     font-size: 80% !important;
+}
+
+.button-section-app{
+    background-color: #2699FB !important;    
 }
 
 
